@@ -1,4 +1,4 @@
-#### **version 0.0**
+# **version 0.0**
 
 本项目用于windows系统下实现bpg和ldpc的图像压缩传输。其中bpg编解码器采用github上的第三方库实现，[具体可以参考](https://github.com/mirrorer/libbpg)。lpdc编码采用的库是[pyldpc](https://pypi.org/project/pyldpc/)，直接pip就行了
 使用的图片数据我存在onedrive里就是kodak数据集下载完直接丢在根目录下就行了（https://1drv.ms/f/s!As298sdrMHIMi02lVHxHsW9YUMuu?e=teh1F1）
